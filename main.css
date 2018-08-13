@@ -4,6 +4,7 @@ body {
   justify-content: center;
   align-items: center;
   margin-top: 100px;
+    background: linear-gradient(to right, #ede574, #e1f5c4);
 }
 
 h1 {
