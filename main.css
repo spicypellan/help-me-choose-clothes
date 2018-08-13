@@ -32,6 +32,6 @@ input {
 
 
 button{
-  box-sizing: inherit;
-  border-style: inherit;
+  box-sizing: border-box;
+  border-style: border
 }
